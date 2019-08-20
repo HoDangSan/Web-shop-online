@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Shop Thời Trang Project:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8639cff-edb6-4101-aaf3-55c5bca10ff6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Content/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Views/Shared/_footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Views/Shared/_header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Views/Shared/_linkcss.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Views/Shared/_linkjs.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Views/Shared/_producer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Views/Shared/_slide.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Shop_Thi_Trang_Project_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Shop_Thi_Trang_Project_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shop Thời Trang Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Shop Thời Trang Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/controller/CartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/controller/CartServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/controller/DetailProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/controller/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/controller/HomeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/ChiTietHoaDon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/ChiTietHoaDon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/HoaDon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/HoaDon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/KhachHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/Khachhang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/Kieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/Kieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/Loai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/Loai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/NhaSanXuat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/NhaSanXuat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/NhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/NhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/SanPham.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/SanPham.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/jdbc/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/c0419h1_nhom1/shopthoitrang/jdbc/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Content/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Views/Cart/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Views/Cart/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Views/Detail Product/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Views/Detail/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Views/Home/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Views/Home/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Views/Shared/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Views/Shared/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header_bo</find>
+      <find>.thumbnail &gt; img, .thumbnail a &gt; img {</find>
+      <find>padding-left: 90px;</find>
+      <find>thumbnail</find>
+      <find>listSessionSanpham</find>
+      <find>cart</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="313" />
+    <option name="y" value="4" />
+    <option name="width" value="771" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectId" id="1PgJOFP1J3simtDLkupFKslveBX" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.21" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Shop Thời Trang Project:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_21_Website-Shop-thoi-trang" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51589" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Shop Thời Trang Project:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8639cff-edb6-4101-aaf3-55c5bca10ff6" name="Default Changelist" comment="" />
+      <created>1561362668448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561362668448</updated>
+      <workItem from="1561362673653" duration="1701000" />
+      <workItem from="1561364946270" duration="3228000" />
+      <workItem from="1561369310468" duration="868000" />
+      <workItem from="1561424811825" duration="1197000" />
+      <workItem from="1561426700365" duration="36000" />
+      <workItem from="1561433427434" duration="1763000" />
+      <workItem from="1561435982788" duration="2744000" />
+      <workItem from="1561438846833" duration="185000" />
+      <workItem from="1561444836063" duration="13355000" />
+      <workItem from="1561511380729" duration="583000" />
+      <workItem from="1561512040409" duration="12571000" />
+      <workItem from="1561531297181" duration="13606000" />
+      <workItem from="1561598236657" duration="712000" />
+      <workItem from="1561599956200" duration="28000" />
+      <workItem from="1561600041394" duration="11319000" />
+      <workItem from="1561618178035" duration="12311000" />
+      <workItem from="1561684136641" duration="9345000" />
+      <workItem from="1561703861551" duration="13582000" />
+      <workItem from="1561815446076" duration="7021000" />
+      <workItem from="1561857683922" duration="15432000" />
+      <workItem from="1561943393818" duration="4512000" />
+      <workItem from="1561950100422" duration="4526000" />
+      <workItem from="1562116032768" duration="583000" />
+      <workItem from="1562146008067" duration="2320000" />
+      <workItem from="1562202405860" duration="295000" />
+      <workItem from="1562206768527" duration="7489000" />
+      <workItem from="1562288489703" duration="4188000" />
+      <workItem from="1562293920545" duration="6000" />
+      <workItem from="1562313119904" duration="2756000" />
+      <workItem from="1562373924522" duration="1260000" />
+      <workItem from="1562421504734" duration="42000" />
+      <workItem from="1562492701380" duration="759000" />
+      <workItem from="1562557978414" duration="1008000" />
+      <workItem from="1566289776456" duration="3365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

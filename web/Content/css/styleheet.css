@@ -1,0 +1,53 @@
+.producer-detail {
+    font-size: 15px;
+}
+
+.description-detail {
+    font-size: 20px;
+}
+
+.cart-iconcss {
+    float: right;
+    width: 40px;
+    height: 37px;
+    margin-right: 24px;
+    background: url(../images/carticon.png) center center no-repeat;
+    background-color: rgba(255, 255, 255, 0.1);
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: none;
+    font-size: 0;
+}
+.search-detail {
+    /*float: left;*/
+    width: 40px;
+    height: 37px;
+    background: url(../images/search-bg.png) center center no-repeat;
+    background-color: rgba(255, 255, 255, 0.1);
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    top: 0px;
+    right: -2px;
+}
+.search-input-detail {
+    top: 1px;
+    right: 46px;
+    position: absolute;
+    border-radius: 5px !important;
+    border: none !important;
+}
+.search input[type="text"]:focus{
+    width: 250px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    outline:none;
+    padding: 8px 15px;
+    font-size: 14px;
+    transition:0.6s ease-in-out;
+}
+.option {
+    margin-top: 17px !important;
+}
